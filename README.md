@@ -38,7 +38,7 @@ practice and continue to grow professionally.</p>
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,ts,nodejs,nestjs,py,flask,fastapi,c,cs&perline=15" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,ts,nodejs,nestjs,py,django,flask,fastapi,c,cs&perline=15" />
   </a>
 </p>
 
