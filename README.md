@@ -38,28 +38,28 @@ practice and continue to grow professionally.</p>
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,flask,fastapi,c,cs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,ts,nodejs,nestjs,py,flask,fastapi,c,cs&perline=15" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,nodejs,react,nextjs&perline=15" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis,supabase&perline=15" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux&perline=15" />
   </a>
 </p>
 
